@@ -23,4 +23,6 @@ one fly, many flies
 one chief, two chiefs (but one thief, two thieves)
 one roof, two roofs
 + otherwise we usually replace the 'f' or 'fe' with 'ves'
+one knife, two knives (but one safe, two safes)
+
 #
